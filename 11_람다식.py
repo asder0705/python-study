@@ -81,4 +81,4 @@ while game_on :
         print("틀렸습니다~!")
 endtime = time.time()
 
-print(f'경과시간 : {endtime-starttime: .1f}s')
+print("경과 시간 없앰")
